@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srivatsa030
 - 👀 I’m interested in-  Coding and Cyber Security
-- 🌱 I’m currently learning - Cloud Security And SIEM concepts
+- 🌱 I’m currently learning - Blockchain security standards and vapt methodologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -csvatsa77@gmail.com
 
